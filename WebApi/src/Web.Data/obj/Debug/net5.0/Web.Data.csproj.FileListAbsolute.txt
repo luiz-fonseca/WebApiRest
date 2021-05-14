@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\GitHub\WebApiRest\WebApi\src\Web.Data\bin\Debug\net5.0\Web.Data.deps.json
+C:\Users\DELL\Documents\GitHub\WebApiRest\WebApi\src\Web.Data\bin\Debug\net5.0\Web.Data.dll
+C:\Users\DELL\Documents\GitHub\WebApiRest\WebApi\src\Web.Data\bin\Debug\net5.0\ref\Web.Data.dll
+C:\Users\DELL\Documents\GitHub\WebApiRest\WebApi\src\Web.Data\bin\Debug\net5.0\Web.Data.pdb
+C:\Users\DELL\Documents\GitHub\WebApiRest\WebApi\src\Web.Data\obj\Debug\net5.0\Web.Data.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\WebApiRest\WebApi\src\Web.Data\obj\Debug\net5.0\Web.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\GitHub\WebApiRest\WebApi\src\Web.Data\obj\Debug\net5.0\Web.Data.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\GitHub\WebApiRest\WebApi\src\Web.Data\obj\Debug\net5.0\Web.Data.AssemblyInfo.cs
+C:\Users\DELL\Documents\GitHub\WebApiRest\WebApi\src\Web.Data\obj\Debug\net5.0\Web.Data.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\WebApiRest\WebApi\src\Web.Data\obj\Debug\net5.0\Web.Data.dll
+C:\Users\DELL\Documents\GitHub\WebApiRest\WebApi\src\Web.Data\obj\Debug\net5.0\ref\Web.Data.dll
+C:\Users\DELL\Documents\GitHub\WebApiRest\WebApi\src\Web.Data\obj\Debug\net5.0\Web.Data.pdb
+C:\Users\DELL\Documents\GitHub\WebApiRest\WebApi\src\Web.Data\bin\Debug\net5.0\Web.Business.dll
+C:\Users\DELL\Documents\GitHub\WebApiRest\WebApi\src\Web.Data\bin\Debug\net5.0\Web.Business.pdb
+C:\Users\DELL\Documents\GitHub\WebApiRest\WebApi\src\Web.Data\obj\Debug\net5.0\Web.Data.csproj.CopyComplete
